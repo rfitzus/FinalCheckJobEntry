@@ -80,3 +80,4 @@ Once you add the two events using the Customization Wizards the Script Editor wi
 
 ![](images/03-FinalCheckJob_10.png)
 
+See the custom code [here](FinalCheckJobEntry.h)
