@@ -26,6 +26,8 @@ Make sure you have developer mode turned on.
 3. Create a trigger that runs when the job is set to release.
 4. Add Adapters so the custom code can reference the Part database.
 
+#### Step 1 - Setup a button 
+
 In this case we are setting up two triggers, one when the button is pressed and another when the job is finally released. You don't necessary need both triggers but having both can be useful. The user can use the button to run the final check but if they forget to run it the event will run automatically when the job is released.
 
 1. Once you have opened the Customization screen, click the Tools dropdown and select Toolbox.
