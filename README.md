@@ -9,9 +9,13 @@ In Job Entry when a Job is engineered a final check is completed before it goes 
 
 ![](images/03-FinalCheckJob_01.png)
 
-#### Navigate to this program from the Main Menu:
+---
+
+**Navigate to this program from the Main Menu:**
 
 _Production Management > Job Management > General Operations > **Job Entry**_ 
+
+---
 
 Make sure you have developer mode turned on.
 
