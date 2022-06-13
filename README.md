@@ -5,7 +5,7 @@ In Job Entry when a Job is engineered a final check is completed before it goes 
 - A final operation has been specified on the job, and has not run into the resequencing error.
 - None of the material parts are inactive in Epicor.
 - Checks for resequence issues
-- Checks for Obsolete Operations. Any Operation Description starting with (OB is considered obsolete
+- Checks for Obsolete Operations. Any Operation Description starting with "(OB" is considered obsolete
 
 ![](images/03-FinalCheckJob_01.png)
 
