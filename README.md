@@ -13,7 +13,7 @@ In Job Entry when a Job is engineered a final check is completed before it goes 
 
 _Production Management > Job Management > General Operations > **Job Entry**_ 
 
-Make sure you have [developer mode](http://ralston-erp1/wiki/index.php/admin/669/developer-mode/) turned on.
+Make sure you have developer mode turned on.
 
 #### Steps to Customize Final Check within Job Entry
 
